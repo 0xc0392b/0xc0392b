@@ -16,6 +16,7 @@ My areas of expertise include software engineering, distributed systems, stream 
         </td>
         <td>
             <img src="/metrics.languages.svg" alt="language usage">
+            <img src="/metrics.topics.svg" alt="starred topics">
         </td>
     </tr>
 </table>
