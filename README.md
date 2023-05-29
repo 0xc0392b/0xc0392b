@@ -8,5 +8,12 @@ My areas of expertise include software engineering, distributed systems, stream 
 - ⚡ or chat to me over matrix [william:matrix.wsantos.net](https://matrix.to/#/@william:matrix.wsantos.net)
 
 <center>
-    <img src="/metrics.comments.svg" alt="comment reaction metrics" width="400" >
+    <img src="/metrics.comments.svg" alt="comment reaction metrics" width="500" >
 </center>
+
+<table>
+    <tr>
+        <td><img src="/metrics.general.svg" alt="general account metrics" width="400"></td>
+        <td><img src="/metrics.languages.svg" alt="language usage metrics" width="400"></td>
+    </tr>
+</table>
