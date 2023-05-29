@@ -38,3 +38,13 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_ignored: >-
             html, css, tex
+      # starred topics
+      - name: topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
