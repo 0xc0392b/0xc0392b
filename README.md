@@ -7,7 +7,7 @@ My areas of expertise include software engineering, distributed systems, stream 
 - ✉️  you can email me at [contact@williamsantos.me](mailto:contact@williamsantos.me)
 - ⚡ or chat to me over matrix [william:matrix.wsantos.net](https://matrix.to/#/@william:matrix.wsantos.net)
 
-<img src="/metrics.comments.svg" alt="language usage" width="500" align="center">
+<img src="/metrics.comments.svg" alt="language usage" width="500">
 
 <table>
     <tr>
@@ -16,7 +16,6 @@ My areas of expertise include software engineering, distributed systems, stream 
         </td>
         <td>
             <img src="/metrics.languages.svg" alt="language usage">
-            <img src="/metrics.topics.svg" alt="starred topics">
         </td>
     </tr>
 </table>
