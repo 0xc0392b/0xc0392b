@@ -35,3 +35,11 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: >-
             html, css, tex, jupyter notebook
+      # lines added and removed
+      - name: lines
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
