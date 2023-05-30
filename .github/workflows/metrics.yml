@@ -45,3 +45,12 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 0
+      # recent stars
+      - name: stars
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
