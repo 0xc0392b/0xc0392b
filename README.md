@@ -10,7 +10,7 @@ My areas of expertise include software engineering, distributed systems, stream 
 <table>
     <tr>
         <td>
-            <img src="/metrics.comments.svg" alt="language usage">
+            <img src="/metrics.comments.svg" alt="comment reactions">
         </td>
         <td>
             <img src="/metrics.languages.svg" alt="language usage">
@@ -24,7 +24,7 @@ My areas of expertise include software engineering, distributed systems, stream 
             <img src="/metrics.general.svg" alt="account summary">
         </td>
         <td>
-            <img src="/metrics.lines.svg" alt="language usage">
+            <img src="/metrics.stars.svg" alt="recent stars">
         </td>
     </tr>
 </table>
