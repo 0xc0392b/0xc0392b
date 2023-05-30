@@ -41,5 +41,8 @@ jobs:
         with:
           filename: metrics.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
+          base: ""
           plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 0
+          plugin_lines_history_limit: 1
