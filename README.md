@@ -24,7 +24,7 @@ My areas of expertise include software engineering, distributed systems, stream 
             <img src="/metrics.general.svg" alt="account summary">
         </td>
         <td>
-            <img src="/metrics.stars.svg" alt="recent stars">
+            <img src="/metrics.lines.svg" alt="lines added and removed">
         </td>
     </tr>
 </table>
