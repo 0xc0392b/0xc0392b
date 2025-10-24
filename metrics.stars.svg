@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Antiarchitect/asdf-helm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helm plugin for asdf version manager https://github.com/asdf-vm/asdf</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helmfile/helmfile</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nwiizo/asdf-helmfile</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helmfile plugin for asdf version manager https://github.com/asdf-vm/asdf</div>
